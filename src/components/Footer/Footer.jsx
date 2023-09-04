@@ -22,7 +22,7 @@ const Footer = () => {
           </span>
           <span className="primaryText">
             让我们聊聊&nbsp;&nbsp;{" "}
-            <a href="mailto:zainkeepscode@gmail.com">Saying Hi!</a>
+            <a href="mailto:1628679619@qq.com">Saying Hi!</a>
           </span>
         </div>
 
