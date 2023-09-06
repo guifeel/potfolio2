@@ -54,12 +54,6 @@ export const workExp = [
 
 export const comments = [
   {
-    name: "王健林",
-    post: "作家",
-    comment: "她总是先定一个小目标，先出个1亿道题！",
-    img: "./people2.png",
-  },
-  {
     name: "鲁迅",
     post: "Creative Manager",
     comment: "她是引导学生迈向未来的向导,是指引学生拓展智慧的良师益友。",
@@ -70,6 +64,12 @@ export const comments = [
     post: "Creative Manager",
     comment: "君子敬而无失，与人恭而有礼，居处恭，执事敬",
     img: "./people3.png",
+  },
+  {
+    name: "王健林",
+    post: "作家",
+    comment: "她总是先定一个小目标，先出个1亿道题！",
+    img: "./people2.png",
   },
   {
     name: "乐高",

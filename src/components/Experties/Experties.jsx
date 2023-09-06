@@ -46,8 +46,8 @@ const Experties = () => {
 
           <div className={`flexCenter ${css.stats}`}>
             <div className={`flexCenter ${css.stat}`}>
-              <span className="primaryText">1000h+</span>
-              <span className="secondaryText">授课时长</span>
+              <span className="primaryText">100h+</span>
+              <span className="secondaryText">培训时长</span>
             </div>
             <div className={`flexCenter ${css.stat}`}>
               <span className="primaryText">10000+</span>

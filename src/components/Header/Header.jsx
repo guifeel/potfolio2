@@ -43,7 +43,7 @@ const Header = () => {
             <a href="#portfolio">Portfolio</a>
           </li> */}
           <li>
-            <a href="#people">推荐信</a>
+            <a href="#people">幽你一默</a>
           </li>
           <li className={`flexCenter ${css.phone}`}>
             <a href="#school">毕业院校</a>
